@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c06ab3"/><stop offset="1" stop-color="#7c3078"/></linearGradient></defs>
+<g transform="translate(40 41)" fill="url(#g)">
+<ellipse rx="8" ry="20" transform="rotate(0) translate(0 -17)"/><ellipse rx="8" ry="20" transform="rotate(45) translate(0 -17)"/>
+<ellipse rx="8" ry="20" transform="rotate(90) translate(0 -17)"/><ellipse rx="8" ry="20" transform="rotate(135) translate(0 -17)"/>
+<ellipse rx="8" ry="20" transform="rotate(180) translate(0 -17)"/><ellipse rx="8" ry="20" transform="rotate(225) translate(0 -17)"/>
+<ellipse rx="8" ry="20" transform="rotate(270) translate(0 -17)"/><ellipse rx="8" ry="20" transform="rotate(315) translate(0 -17)"/>
+<circle r="7" fill="#a14b98"/></g></svg>
